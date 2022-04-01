@@ -1,3 +1,4 @@
+#This script was created by Levente Bajnóczi
 
 A = None
 B = None
